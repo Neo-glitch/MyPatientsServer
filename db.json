@@ -1,6 +1,7 @@
 {
   "sync": {
     "message": "Synced patient success",
-    "status": "OK"
+    "status": "OK",
+    "code": 200
   }
 }
